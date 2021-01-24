@@ -11,11 +11,11 @@ Love rules in team work.
 Think, before type anything.
 
 Occationally I try some fancy JS/TS libraries and frameworks, even using them in smaller personal leisure projects.
-Planned in 2020 to have gain more experience in the 3 big frameworks, Angular, Vue.js, and React, in FE (and also the BE).
+Planned in 2021 to have gain more experience in the 3 big frameworks, Angular, Vue.js, and React, in FE (and also the BE).
 
 Looking forward to solve more problems with JS, and build more useful products in JS.
 I love the vacations in Japan, would love to live there for a longer time!
 
-:e-mail: yuhui.xiong.2018@gmail.com
+:e-mail: yuhui.xiong@protonmail.com
 
 ![yuhuiX's public GitHub](https://github-readme-stats.vercel.app/api?username=yuhuiX&hide=["stars"]&show_icons=true)
